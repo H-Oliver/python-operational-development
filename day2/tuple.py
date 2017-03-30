@@ -1,0 +1,5 @@
+names = ('alex','jack')
+names.count(2)
+n=names.index("jack")
+#print(names)
+print(n)
